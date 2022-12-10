@@ -1,0 +1,9 @@
+CREATE DATABASE temperatureDB;
+USE temperatureDB;
+CREATE TABLE temphumi (
+	ID int NOT NULL AUTO_INCREMENT,
+    Temp float NOT NULL,
+    Humi float NOT NULL,
+    Ts bigint NOT NULL,
+    PRIMARY KEY (ID)
+);
