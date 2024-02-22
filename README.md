@@ -1,0 +1,1 @@
+This project is an embedded project that uses an arduino and a temperature sensor to measure the environment temperature and display it on the UI so that the user can monitor and track the temperature in real time
